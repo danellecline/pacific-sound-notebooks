@@ -1,5 +1,12 @@
 # Pacific Sound Notebooks Changelog
 
+## [1.0.5](https://github.com/danellecline/pacific-sound-notebooks/compare/v1.0.4...v1.0.5) (2021-10-09)
+
+
+### Bug Fixes
+
+* added missing reqts ([4e7e56f](https://github.com/danellecline/pacific-sound-notebooks/commit/4e7e56fa0a5a98a19c6b473a9157823c147b8f51))
+
 ## [1.0.4](https://github.com/danellecline/pacific-sound-notebooks/compare/v1.0.3...v1.0.4) (2021-10-09)
 
 
