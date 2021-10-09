@@ -10,20 +10,20 @@ using the data in the AWS [pacific-sound registry](https://registry.opendata.aws
  
 ## Data Access Notebooks
  
-* [2kHz Data](http://docs.mbari.org/pacific-sound/notebooks/data/PacificSound2kHz/) ✨ Recommended first step to learn more about the low-frequency data
-* [16kHz Data](http://docs.mbari.org/pacific-sound/notebooks/data/PacificSound16kHz/) ✨ Recommended first step to learn more about the low-mid-frequency data
-* [256kHz Data](http://docs.mbari.org/pacific-sound/notebooks/data/PacificSound256kHz/) ✨ Recommended first step to learn more about the raw 10-minute data
+* [2kHz Data](https://github.com/danellecline/pacific-sound-notebooks/blob/master/data/PacificSound2kHz/) ✨ Recommended first step to learn more about the low-frequency data
+* [16kHz Data](https://github.com/danellecline/pacific-sound-notebooks/blob/master/data/PacificSound16kHz/) ✨ Recommended first step to learn more about the low-mid-frequency data
+* [256kHz Data](https://github.com/danellecline/pacific-sound-notebooks/blob/master/data/PacificSound256kHz/) ✨ Recommended first step to learn more about the raw 10-minute data
 
 ## Research and Machine Learning Notebooks
  
   * Blue Whales
-      * [Blue B call index 🐳](http://docs.mbari.org/pacific-sound/notebooks/bluewhales/classify/blueB/PacificSoundBlueBCallIndex/) Study song occurrence using a signal processing method
-      * [Blue A call classification 🐳](http://docs.mbari.org/pacific-sound/notebooks/bluewhales/classify/blueA/PacificSoundClassifyBlueA/) Classify blue whale song A calls with a neural network model
+      * [Blue B call index 🐳](hhttps://github.com/danellecline/pacific-sound-notebooks/blob/master/bluewhales/classify/blueB/PacificSoundBlueBCallIndex/) Study song occurrence using a signal processing method
+      * [Blue A call classification 🐳](https://github.com/danellecline/pacific-sound-notebooks/blob/master/bluewhales/classify/blueA/PacificSoundClassifyBlueA/) Classify blue whale song A calls with a neural network model
       * Training a model in SageMaker  🚧
   * Humpback Whales
-      * [Humpback whale song detection 🐳](http://docs.mbari.org/pacific-sound/notebooks/humpbackwhales/detect/PacificSoundDetectHumpbackSong/) Detect humpback song with a neural network model
+      * [Humpback whale song detection 🐳](https://github.com/danellecline/pacific-sound-notebooks/blob/master/humpbackwhales/detect/PacificSoundDetectHumpbackSong/) Detect humpback song with a neural network model
   * Shipping Noise
-    - [Signal processing method for studying temporal variations](http://docs.mbari.org/pacific-sound/notebooks/shippingnoise/PacificSoundShippingNoiseAnalysis.ipynb)
+    - [Signal processing method for studying temporal variations](https://github.com/danellecline/pacific-sound-notebooks/blob/master/shippingnoise/PacificSoundShippingNoiseAnalysis.ipynb)
  
 
 </details>
