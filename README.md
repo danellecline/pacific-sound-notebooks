@@ -42,8 +42,8 @@ documentation on how to install and use these notebooks.
 ### Install to your computer
 
 [**Python>=3.6.0**](https://www.python.org/) is required with the 
-[requirements.txt](https://github.com/danellecline/pacific-sound-notebookks/blob/master/requirements.txt).
-
+[requirements.txt](https://github.com/danellecline/pacific-sound-notebooks/blob/master/requirements.txt).
+ 
 ```bash
 $ git clone https://github.com/mbari-org/pacific-sound-notebooks
 $ cd pacific-sound-notebooks
