@@ -20,8 +20,10 @@ jobs:
           GIT_COMMITTER_NAME: danellecline
         with:
           extra_plugins: |
-            @semantic-release/git
+            @semantic-release
             @semantic-release/changelog
+            @semantic-release/git
             @semantic-release/commit-analyzer
+             @semantic-release/exec
             @semantic-release/release-notes-generator
             commitizen

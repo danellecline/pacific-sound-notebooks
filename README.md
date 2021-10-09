@@ -9,17 +9,13 @@ using the data in the AWS [pacific-sound registry](https://registry.opendata.aws
 <summary>Tutorials</summary>
  
 ## Data Access Notebooks
-
----
-
+ 
 * [2kHz Data](http://docs.mbari.org/pacific-sound/notebooks/data/PacificSound2kHz.ipynb) ✨ Recommended first step to learn more about the low-frequency data
 * [16kHz Data](http://docs.mbari.org/pacific-sound/notebooks/data/PacificSound16kHz.ipynb) ✨ Recommended first step to learn more about the low-mid-frequency data
 * [256kHz Data](http://docs.mbari.org/pacific-sound/notebooks/data/PacificSound256kHz.ipynb) ✨ Recommended first step to learn more about the raw 10-minute data
 
 ## Research and Machine Learning Notebooks
-
----
-
+ 
   * Blue Whales
       * [Blue B call index 🐳](http://docs.mbari.org/pacific-sound/notebooks/bluewhales/classify/blueB/PacificSoundBlueBCallIndex.ipynb) Study song occurrence using a signal processing method
       * [Blue A call classification 🐳](http://docs.mbari.org/pacific-sound/notebooks/bluewhales/classify/blueA/PacificSoundClassifyBlueA.ipynb) Classify blue whale song A calls with a neural network model
@@ -43,7 +39,7 @@ documentation on how to install and use these notebooks.
 
 ### [Install in Colab](https://docs.mbari.org/pacific-sound/installation/SageMaker/)
  
-###>Install to your computer
+### Install to your computer
 
 [**Python>=3.6.0**](https://www.python.org/) is required with the 
 [requirements.txt](https://github.com/danellecline/pacific-sound-http://docs.mbari.org/pacific-sound/notebooks/blob/master/requirements.txt).
