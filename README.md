@@ -37,7 +37,7 @@ documentation on how to install and use these notebooks.
  
 ### [Install in SageMaker](https://docs.mbari.org/pacific-sound/installation/SageMaker/)
 
-### [Install in Colab](https://docs.mbari.org/pacific-sound/installation/SageMaker/)
+### [Install in Colab](https://docs.mbari.org/pacific-sound/installation/Colab/)
  
 ### Install to your computer
 
